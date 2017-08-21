@@ -1,7 +1,3 @@
----
-description: The world is greeted
----
-
 # Hello World
 
 
